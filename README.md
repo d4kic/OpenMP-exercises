@@ -1,2 +1,2 @@
 # OpenMP-exercises
-Parallel programming with OpenMP in C
+Introduction to OpenMP: https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
